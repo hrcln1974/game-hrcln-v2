@@ -1,0 +1,6 @@
+{
+  "name": "As Aventuras de Nena e Pepê - HRCLN Games",
+  "description": "Jogo de plataforma e aventura em 5 fases com Nena, Pepê e o cãozinho Bidu explorando mundos mágicos, coletando tesouros e enfrentando desafios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
